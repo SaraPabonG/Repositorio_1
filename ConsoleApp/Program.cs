@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-Trabajadores trabajador = new Trabajadores();
+Trabajadores trabajador = new Empleados();
 trabajador.id = 1;
 trabajador.Nombre = "Luis";
 trabajador.Apellido = "Goméz";
